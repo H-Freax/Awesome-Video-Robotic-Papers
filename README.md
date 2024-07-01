@@ -29,11 +29,22 @@ This repository compiles a list of papers related to the application of video te
   - [Paper](https://arxiv.org/pdf/2406.18915)
   - [Website](https://robot-ma.github.io/)
 
-- https://github.com/cvlab-columbia/dreamitate
+- Dreamitate: Real-World Visuomotor Policy Learning via Video Generation
   - Junbang Liang, Ruoshi Liu, Ege Ozguroglu, Sruthi Sudhakar, Achal Dave, Pavel Tokmakov, Shuran Song, Carl Vondrick
-  - [Paper](https://arxiv.org/abs/2310.10625)
+  - [Paper](https://arxiv.org/abs/2406.16862)
   - [Website](https://dreamitate.cs.columbia.edu/)
   - [Code](https://github.com/cvlab-columbia/dreamitate)
+
+- Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation
+  - Hongtao Wu, Ya Jing, Chilam Cheang, Guangzeng Chen, Jiafeng Xu, Xinghang Li, Minghuan Liu, Hang Li, Tao Kong
+  - [Paper](https://arxiv.org/abs/2312.13139)
+  - [Website](https://gr1-manipulation.github.io/)
+  - [Code](https://github.com/bytedance/GR-1)
+
+- Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning
+  - Haoran He, Chenjia Bai, Ling Pan, Weinan Zhang, Bin Zhao, Xuelong Li
+  - [Paper](https://arxiv.org/abs/2402.14407)
+  - [Website](https://video-diff.github.io/)
 
 ## SPOT
 - Track2Act: Predicting Point Tracks from Internet Videos Enables Diverse Zero-shot Manipulation
