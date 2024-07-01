@@ -3,7 +3,13 @@
 This repository compiles a list of papers related to the application of video technology in the field of robotics.  Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue.
 
 ## Review
+- Towards Generalist Robot Learning from Internet Video: A Survey
+  - Robert McCarthy, Daniel C.H. Tan, Dominik Schmidt, Fernando Acero, Nathan Herr, Yilun Du, Thomas G. Thuruthel, Zhibin Li
+  - [Paper](https://arxiv.org/pdf/2404.19664)
 
+- Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation
+  - Chrisantus Eze, Christopher Crick
+  - [Paper](https://arxiv.org/abs/2402.07127)  
 
 ## Robot Arm
 
@@ -45,6 +51,25 @@ This repository compiles a list of papers related to the application of video te
   - Haoran He, Chenjia Bai, Ling Pan, Weinan Zhang, Bin Zhao, Xuelong Li
   - [Paper](https://arxiv.org/abs/2402.14407)
   - [Website](https://video-diff.github.io/)
+
+- ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data
+  - Zeyi Liu, Cheng Chi, Eric Cousineau, Naveen Kuppuswamy, Benjamin Burchfiel, Shuran Song
+  - [Paper](https://arxiv.org/abs/2406.19464)
+  - [Website](https://mani-wav.github.io/)
+  - [Code](https://github.com/real-stanford/maniwav)
+  - [Dataset](https://real.stanford.edu/maniwav/data/)
+
+- Vision-based Manipulation from Single Human Video with Open-World Object Graphs
+  - Yifeng Zhu, Arisrei Lim, Peter Stone, Yuke Zhu
+  - [Paper](https://arxiv.org/abs/2405.20321)
+  - [Website](https://ut-austin-rpl.github.io/ORION-release/)
+
+- Learning to Act from Actionless Videos
+through Dense Correspondences
+  - Po-Chen Ko, Jiayuan Mao, Yilun Du, Shao-Hua Sun, Joshua B. Tenenbaum
+  - [Paper](https://arxiv.org/abs/2310.08576)
+  - [Website](https://flow-diffusion.github.io/)
+  - [Code](https://github.com/flow-diffusion/AVDC)
 
 ## SPOT
 - Track2Act: Predicting Point Tracks from Internet Videos Enables Diverse Zero-shot Manipulation
