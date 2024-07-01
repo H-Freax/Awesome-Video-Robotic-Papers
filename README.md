@@ -8,7 +8,7 @@ This repository compiles a list of papers related to the application of video te
 ## Robot Arm
 
 - Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers
-  - Vidhi Jain, Maria Attarian, Nikhil J Joshi, Ayzaan Wahid, Danny Driess, Quan Vuong, Pannag R Sanketi, Pierre Sermanet, Stefan Welker, Christine Chan, Igor Gilitschenski, Yonatan Bisk, Debidatta Dwibedi 
+  - Vidhi Jain, Maria Attarian, Nikhil J Joshi, Ayzaan Wahid, Danny Driess, Quan Vuong, Pannag R Sanketi, Pierre Sermanet, Stefan Welker, Christine Chan, Igor Gilitschenski, Yonatan Bisk, Debidatta Dwibedi
   - [Paper](https://arxiv.org/abs/2403.12943)
   - [Website](https://vid2robot.github.io/)
 
@@ -23,7 +23,18 @@ This repository compiles a list of papers related to the application of video te
   - [Paper](https://arxiv.org/abs/2310.10625)
   - [Website](https://video-language-planning.github.io/)
   - [Code](https://github.com/video-language-planning/vlp_code)
- 
+
+- Manipulate-Anything: Automating Real-World Robots using Vision-Language Models
+  - Jiafei Duan, Wentao Yuan, Wilbert Pumacay, Yi Ru Wang, Kiana Ehsani, Dieter Fox, Ranjay Krishna
+  - [Paper](https://arxiv.org/pdf/2406.18915)
+  - [Website](https://robot-ma.github.io/)
+
+- https://github.com/cvlab-columbia/dreamitate
+  - Junbang Liang, Ruoshi Liu, Ege Ozguroglu, Sruthi Sudhakar, Achal Dave, Pavel Tokmakov, Shuran Song, Carl Vondrick
+  - [Paper](https://arxiv.org/abs/2310.10625)
+  - [Website](https://dreamitate.cs.columbia.edu/)
+  - [Code](https://github.com/cvlab-columbia/dreamitate)
+
 ## SPOT
 - Track2Act: Predicting Point Tracks from Internet Videos Enables Diverse Zero-shot Manipulation
   - Homanga Bharadhwaj, Roozbeh Mottaghi*, Abhinav Gupta*, Shubham Tulsiani*
