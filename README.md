@@ -19,6 +19,12 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Paper](https://arxiv.org/abs/2402.07127)
 
 ## Robot Arm
+- **RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**
+  - Yuxuan Kuang*, Junjie Ye*, Haoran Geng*, Jiageng Mao, Congyue Deng, Leonidas Guibas, He Wang, Yue Wang
+  - [Paper](https://arxiv.org/abs/2407.04689)
+  - [Website](https://yxkryptonite.github.io/RAM/)
+  - [Code](https://github.com/yxKryptonite/RAM_code)
+
 - **Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers**
   - Vidhi Jain, Maria Attarian, Nikhil J Joshi, Ayzaan Wahid, Danny Driess, Quan Vuong, Pannag R Sanketi, Pierre Sermanet, Stefan Welker, Christine Chan, Igor Gilitschenski, Yonatan Bisk, Debidatta Dwibedi
   - [Paper](https://arxiv.org/abs/2403.12943)
