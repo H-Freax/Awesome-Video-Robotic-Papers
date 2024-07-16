@@ -19,6 +19,14 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Paper](https://arxiv.org/abs/2402.07127)
 
 ## Robot Arm
+- **HRP: Human Affordances for Robotic Pre-Training**
+  - Mohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav Gupta
+  - [Paper](https://hrp-robot.github.io/hrp.pdf)
+  - [Website](https://hrp-robot.github.io/)
+  - [Code](https://github.com/SudeepDasari/data4robotics/tree/hrp_release)
+  - Carnegie Mellon University
+  - RSS 2024
+
 - **RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**
   - Yuxuan Kuang*, Junjie Ye*, Haoran Geng*, Jiageng Mao, Congyue Deng, Leonidas Guibas, He Wang, Yue Wang
   - [Paper](https://arxiv.org/abs/2407.04689)
