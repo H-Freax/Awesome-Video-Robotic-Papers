@@ -7,7 +7,8 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 1. [Review Papers](#review-papers)
 2. [Robot Arm](#robot-arm)
 3. [SPOT](#spot)
-4. [Other Useful Sources](#other-useful-sources)
+4. [Dataset](#dataset)
+5. [Other Useful Sources](#other-useful-sources)
 
 ## Review Papers
 - **Towards Generalist Robot Learning from Internet Video: A Survey**
@@ -25,6 +26,13 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Paper](https://arxiv.org/abs/2407.12957)
   - [Website](https://www.robot-learning.uk/r-plus-x)
   - the Robot Learning Lab at Imperial College London
+    
+- **Octo: An Open-Source Generalist Robot Policy**
+  - Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
+  - [Paper](https://arxiv.org/pdf/2405.12213)
+  - [Website](https://octo-models.github.io/)
+  - [Code](https://github.com/octo-models/octo)
+  - UC Berkeley || Stanford || Carnegie Mellon University || Google Deepmind
 
 - **HRP: Human Affordances for Robotic Pre-Training**
   - Mohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav Gupta
@@ -103,6 +111,25 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Paper](https://arxiv.org/abs/2405.01527)
   - [Website](https://homangab.github.io/track2act/)
   - [Code](https://github.com/homangab/Track-2-Act/)
+
+## Dataset
+
+- **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset**
+  - Alexander Khazatsky, Karl Pertsch, Suraj Nair, Ashwin Balakrishna, Sudeep Dasari, Siddharth Karamcheti, Soroush Nasiriany, Mohan Kumar Srirama, Lawrence Yunliang Chen, Kirsty Ellis, Peter David Fagan, Joey Hejna, Masha Itkina, Marion Lepert, Yecheng Jason Ma, Patrick Tree Miller, Jimmy Wu, Suneel Belkhale, Shivin Dass, Huy Ha, Arhan Jain, Abraham Lee, Youngwoon Lee, Marius Memmel, Sungjae Park, Ilija Radosavovic, Kaiyuan Wang, Albert Zhan, Kevin Black, Cheng Chi, Kyle Beltran Hatch, Shan Lin, Jingpei Lu, Jean Mercat, Abdul Rehman, Pannag R Sanketi, Archit Sharma, Cody Simpson, Quan Vuong, Homer Rich Walke, Blake Wulfe, Ted Xiao, Jonathan Heewon Yang, Arefeh Yavary, Tony Z. Zhao, Christopher Agia, Rohan Baijal, Mateo Guaman Castro, Daphne Chen, Qiuyu Chen, Trinity Chung, Jaimyn Drake, Ethan Paul Foster, Jensen Gao, David Antonio Herrera, Minho Heo, Kyle Hsu, Jiaheng Hu, Donovon Jackson, Charlotte Le, Yunshuang Li, Kevin Lin, Roy Lin, Zehan Ma, Abhiram Maddukuri, Suvir Mirchandani, Daniel Morton, Tony Nguyen, Abigail O'Neill, Rosario Scalise, Derick Seale, Victor Son, Stephen Tian, Emi Tran, Andrew E. Wang, Yilin Wu, Annie Xie, Jingyun Yang, Patrick Yin, Yunchu Zhang, Osbert Bastani, Glen Berseth, Jeannette Bohg, Ken Goldberg, Abhinav Gupta, Abhishek Gupta, Dinesh Jayaraman, Joseph J Lim, Jitendra Malik, Roberto Martín-Martín, Subramanian Ramamoorthy, Dorsa Sadigh, Shuran Song, Jiajun Wu, Michael C. Yip, Yuke Zhu, Thomas Kollar, Sergey Levine, Chelsea Finn
+  - [Paper](https://arxiv.org/abs/2403.12945)
+  - [Website](https://droid-dataset.github.io/)
+  - check the website and get much sources
+  - <img width="1469" alt="image" src="https://github.com/user-attachments/assets/b7e1db76-8af4-471e-b09d-c98ec96555a4">
+
+    
+- **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**
+  - Open X-Embodiment Collaboration, Abby O'Neill, Abdul Rehman, Abhinav Gupta, Abhiram Maddukuri, Abhishek Gupta, Abhishek Padalkar, Abraham Lee, Acorn Pooley, Agrim Gupta, Ajay Mandlekar, Ajinkya Jain, Albert Tung, Alex Bewley, Alex Herzog, Alex Irpan, Alexander Khazatsky, Anant Rai, Anchit Gupta, Andrew Wang, Andrey Kolobov, Anikait Singh, Animesh Garg, Aniruddha Kembhavi, Annie Xie, Anthony Brohan, Antonin Raffin, Archit Sharma, Arefeh Yavary, Arhan Jain, Ashwin Balakrishna, Ayzaan Wahid, Ben Burgess-Limerick, Beomjoon Kim, Bernhard Schölkopf, Blake Wulfe, Brian Ichter, Cewu Lu, Charles Xu, Charlotte Le, Chelsea Finn, Chen Wang, Chenfeng Xu, Cheng Chi, Chenguang Huang, Christine Chan, Christopher Agia, Chuer Pan, Chuyuan Fu, Coline Devin, Danfei Xu, Daniel Morton, Danny Driess, Daphne Chen, Deepak Pathak, Dhruv Shah, Dieter Büchler, Dinesh Jayaraman, Dmitry Kalashnikov, Dorsa Sadigh, Edward Johns, Ethan Foster, Fangchen Liu, Federico Ceola, Fei Xia, Feiyu Zhao, Felipe Vieira Frujeri, Freek Stulp, Gaoyue Zhou, Gaurav S. Sukhatme, Gautam Salhotra, Ge Yan, Gilbert Feng, Giulio Schiavi, Glen Berseth, Gregory Kahn, Guangwen Yang, Guanzhi Wang, Hao Su, Hao-Shu Fang, Haochen Shi, Henghui Bao, Heni Ben Amor, Henrik I Christensen, Hiroki Furuta, Homanga Bharadhwaj, Homer Walke, Hongjie Fang, Huy Ha, Igor Mordatch, Ilija Radosavovic, Isabel Leal, Jacky Liang, Jad Abou-Chakra, Jaehyung Kim, Jaimyn Drake, Jan Peters, Jan Schneider, Jasmine Hsu, Jay Vakil et al. (192 additional authors not shown)
+  - [Paper](https://arxiv.org/abs/2310.08864)
+  - [Website](https://robotics-transformer-x.github.io/)
+  - [Code](https://github.com/google-deepmind/open_x_embodiment)
+  - ![image](https://github.com/user-attachments/assets/3707d035-146e-47cb-8f0e-c50edcaff279)
+
+
 
 ## Other Useful Sources
 
