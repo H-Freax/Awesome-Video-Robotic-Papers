@@ -19,6 +19,13 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Paper](https://arxiv.org/abs/2402.07127)
 
 ## Robot Arm
+
+- **R+X: Retrieval and Execution from Everyday Human Videos**
+  - Georgios Papagiannis, Norman Di Palo, Pietro Vitiello, Edward Johns
+  - [Paper](https://arxiv.org/abs/2407.12957)
+  - [Website](https://www.robot-learning.uk/r-plus-x)
+  - the Robot Learning Lab at Imperial College London
+
 - **HRP: Human Affordances for Robotic Pre-Training**
   - Mohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav Gupta
   - [Paper](https://hrp-robot.github.io/hrp.pdf)
