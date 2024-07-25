@@ -20,13 +20,37 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Paper](https://arxiv.org/abs/2402.07127)
 
 ## Robot Arm
+- **This&That: Language-Gesture Controlled Video Generation for Robot Planning**
+  - Boyang Wang, Nikhil Sridhar, Chao Feng, Mark Van der Merwe, Adam Fishman, Nima Fazeli, Jeong Joon Park
+  - [Paper](https://arxiv.org/abs/2407.05530)
+  - [Website](https://cfeng16.github.io/this-and-that/)
+  - [Code] not release yet
+  - University of Michigan || University of Washington
+
+- **Policy Composition From and For Heterogeneous Robot Learning**
+  - Lirui Wang, Alan Zhao, Yilun Du, Ted Adelson, Russ Tedrake
+  - [Paper](https://arxiv.org/abs/2402.02511)
+  - [Website](https://liruiw.github.io/policycomp/)
+  - MIT CSAIL
+  - Robotics: Science and Systems (R:SS), 2024
+
+- **Simultaneous Localization and Affordance Prediction for Tasks in Egocentric Video**
+  - Zachary Chavis, Hyun Soo Park, and Stephen J. Guy
+  - [Paper](https://arxiv.org/abs/2407.13856)
+  - Department of Computer Science and Engineering, University of Minnesota
+
+- **Flow as the Cross-domain Manipulation Interface**
+  - Mengda Xu, Zhenjia Xu, Yinghao Xu, Cheng Chi, Gordon Wetzstein, Manuela Veloso, Shuran Song
+  - [Paper](https://arxiv.org/abs/2407.15208)
+  - [Website](https://im-flow-act.github.io/)
+  - Stanford University || Columbia University || JP Morgan AI Research || Carnegie Mellon University
 
 - **R+X: Retrieval and Execution from Everyday Human Videos**
   - Georgios Papagiannis, Norman Di Palo, Pietro Vitiello, Edward Johns
   - [Paper](https://arxiv.org/abs/2407.12957)
   - [Website](https://www.robot-learning.uk/r-plus-x)
   - the Robot Learning Lab at Imperial College London
-    
+
 - **Octo: An Open-Source Generalist Robot Policy**
   - Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
   - [Paper](https://arxiv.org/pdf/2405.12213)
@@ -121,7 +145,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - check the website and get much sources
   - <img width="1469" alt="image" src="https://github.com/user-attachments/assets/b7e1db76-8af4-471e-b09d-c98ec96555a4">
 
-    
+
 - **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**
   - Open X-Embodiment Collaboration, Abby O'Neill, Abdul Rehman, Abhinav Gupta, Abhiram Maddukuri, Abhishek Gupta, Abhishek Padalkar, Abraham Lee, Acorn Pooley, Agrim Gupta, Ajay Mandlekar, Ajinkya Jain, Albert Tung, Alex Bewley, Alex Herzog, Alex Irpan, Alexander Khazatsky, Anant Rai, Anchit Gupta, Andrew Wang, Andrey Kolobov, Anikait Singh, Animesh Garg, Aniruddha Kembhavi, Annie Xie, Anthony Brohan, Antonin Raffin, Archit Sharma, Arefeh Yavary, Arhan Jain, Ashwin Balakrishna, Ayzaan Wahid, Ben Burgess-Limerick, Beomjoon Kim, Bernhard Schölkopf, Blake Wulfe, Brian Ichter, Cewu Lu, Charles Xu, Charlotte Le, Chelsea Finn, Chen Wang, Chenfeng Xu, Cheng Chi, Chenguang Huang, Christine Chan, Christopher Agia, Chuer Pan, Chuyuan Fu, Coline Devin, Danfei Xu, Daniel Morton, Danny Driess, Daphne Chen, Deepak Pathak, Dhruv Shah, Dieter Büchler, Dinesh Jayaraman, Dmitry Kalashnikov, Dorsa Sadigh, Edward Johns, Ethan Foster, Fangchen Liu, Federico Ceola, Fei Xia, Feiyu Zhao, Felipe Vieira Frujeri, Freek Stulp, Gaoyue Zhou, Gaurav S. Sukhatme, Gautam Salhotra, Ge Yan, Gilbert Feng, Giulio Schiavi, Glen Berseth, Gregory Kahn, Guangwen Yang, Guanzhi Wang, Hao Su, Hao-Shu Fang, Haochen Shi, Henghui Bao, Heni Ben Amor, Henrik I Christensen, Hiroki Furuta, Homanga Bharadhwaj, Homer Walke, Hongjie Fang, Huy Ha, Igor Mordatch, Ilija Radosavovic, Isabel Leal, Jacky Liang, Jad Abou-Chakra, Jaehyung Kim, Jaimyn Drake, Jan Peters, Jan Schneider, Jasmine Hsu, Jay Vakil et al. (192 additional authors not shown)
   - [Paper](https://arxiv.org/abs/2310.08864)
