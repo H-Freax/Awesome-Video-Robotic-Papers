@@ -20,13 +20,21 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Paper](https://arxiv.org/abs/2402.07127)
 
 ## Robot Arm
+- **Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation**
+  - Sarthak Bhagat, Samuel Li, Joseph Campbell, Yaqi Xie, Katia Sycara, Simon Stepputtis
+  - [Paper](https://ieeexplore.ieee.org/document/10582423)
+  - [Website](https://sarthak268.github.io/NeSCA/)
+  - [Code](https://github.com/sarthak268/nesca-pytorch)
+  - IEEE Robotics and Automation Letters
+  - The Robotics Institute, Carnegie Melon University
+
 - **Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks**
   - Kuan Fang, Patrick Yin, Ashvin Nair, Homer Walke, Gengchen Yan, Sergey Levine
   - [Paper](https://arxiv.org/abs/2210.06601)
   - [Code](https://github.com/kuanfang/flap)
   - CoRL 2022
   - UC Berkeley
-    
+
 - **VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training**
   - Yecheng Jason Ma, Shagun Sodhani, Dinesh Jayaraman, Osbert Bastani, Vikash Kumar, Amy Zhang
   - [Paper](https://arxiv.org/abs/2210.00030)
@@ -34,7 +42,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Code](https://github.com/facebookresearch/vip)
   - ICLR 2023, Notable-Top-25% (Spotlight)
   - FAIR, Meta AI || University of Pennsylvania
-    
+
 - **SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models**
   - Zhiyuan Zhou, Pranav Atreya, Abraham Lee, Homer Walke, Oier Mees, Sergey Levine
   - [Paper](https://arxiv.org/abs/2407.20635)
@@ -42,7 +50,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Code](https://github.com/rail-berkeley/soar)
   - [Dataset](https://rail.eecs.berkeley.edu/datasets/soar_release/)
   - UC Berkeley
-  
+
 - **HRP: Human Affordances for Robotic Pre-Training**
   - Mohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav Gupta
   - [Paper](https://arxiv.org/abs/2407.18911)
@@ -153,7 +161,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - Haoran He, Chenjia Bai, Ling Pan, Weinan Zhang, Bin Zhao, Xuelong Li
   - [Paper](https://arxiv.org/abs/2402.14407)
   - [Website](https://video-diff.github.io/)
-  - Hong Kong University of Science and Technology || Shanghai Artificial Intelligence Laboratory || Shanghai Jiao Tong University || Northwestern Polytechnical University || Institute of Artificial In- telligence (TeleAI), China Telecom Corp Ltd. 
+  - Hong Kong University of Science and Technology || Shanghai Artificial Intelligence Laboratory || Shanghai Jiao Tong University || Northwestern Polytechnical University || Institute of Artificial In- telligence (TeleAI), China Telecom Corp Ltd.
 
 - **ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data**
   - Zeyi Liu, Cheng Chi, Eric Cousineau, Naveen Kuppuswamy, Benjamin Burchfiel, Shuran Song
@@ -215,6 +223,13 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Code](https://github.com/Ego4DSounds/Ego4DSounds)
   - <img width="911" alt="image" src="https://github.com/user-attachments/assets/833ab02e-3f2b-4f3f-8508-17b98c9dce06">
 
+- **RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot**
+    - Hao-Shu Fang, Hongjie Fang, Zhenyu Tang, Jirong Liu, Chenxi Wang, Junbo Wang, Haoyi Zhu, Cewu Lu
+    - [Paper](https://arxiv.org/abs/2307.00595)
+    - [Website](https://rh20t.github.io/)
+    - [API](https://github.com/rh20t/rh20t_api)
+    - [Dataset](https://rh20t.github.io/#download)
+    - Shanghai Jiao Tong University
 
 
 ## Other Useful Sources
