@@ -230,6 +230,8 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
     - [API](https://github.com/rh20t/rh20t_api)
     - [Dataset](https://rh20t.github.io/#download)
     - Shanghai Jiao Tong University
+    - <img width="950" alt="image" src="https://github.com/user-attachments/assets/257a4d9e-b2fd-4d37-a1d1-f391bc32a10a">
+
 
 
 ## Other Useful Sources
