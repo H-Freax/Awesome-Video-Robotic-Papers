@@ -200,6 +200,27 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - check the website and get much sources
   - <img width="1469" alt="image" src="https://github.com/user-attachments/assets/b7e1db76-8af4-471e-b09d-c98ec96555a4">
 
+| Paper Title | Link | Date |
+|-------------|------|------|
+| Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation | [Link](https://arxiv.org/abs/2412.15109) | 2024-12 |
+| Improving Vision-Language-Action Models via Chain-of-Affordance | [Link](https://arxiv.org/abs/2412.20451) | 2024-12 |
+| STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning | [Link](https://arxiv.org/abs/2412.15182) | 2024-12 |
+| WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making | [Link](https://arxiv.org/abs/2411.05619) | 2024-11 |
+| Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets | [Link](https://arxiv.org/abs/2410.22325) | 2024-10 |
+| UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation | [Link](https://openreview.net/forum?id=an953WOpo2) | 2024-10 |
+| RDT-1B: A Diffusion Foundation Model for Bimanual Manipulation | [Link](https://arxiv.org/abs/2410.07864) | 2024-10 |
+| π0: A Vision-Language-Action Flow Model for General Robot Control | [Link](https://arxiv.org/abs/2410.24164) | 2024-10 |
+| Diffusion Transformer Policy | [Link](https://arxiv.org/abs/2410.15959) | 2024-10 |
+| AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation | [Link](https://arxiv.org/abs/2410.00371) | 2024-10 |
+| Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning | [Link](https://arxiv.org/abs/2410.01529) | 2024-10 |
+| VIRT: Vision Instructed Transformer for Robotic Manipulation | [Link](https://arxiv.org/abs/2410.07169) | 2024-10 |
+| CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera | [Link](https://arxiv.org/abs/2409.10441) | 2024-09 |
+| In-Context Imitation Learning via Next-Token Prediction | [Link](https://arxiv.org/abs/2408.15980) | 2024-08 |
+| Kalib: Markerless Hand-Eye Calibration with Keypoint Tracking | [Link](https://arxiv.org/abs/2408.10562) | 2024-08 |
+| RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation | [Link](https://arxiv.org/abs/2407.04689) | 2024-07 |
+
+
+
 
 - **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**
   - Open X-Embodiment Collaboration, Abby O'Neill, Abdul Rehman, Abhinav Gupta, Abhiram Maddukuri, Abhishek Gupta, Abhishek Padalkar, Abraham Lee, Acorn Pooley, Agrim Gupta, Ajay Mandlekar, Ajinkya Jain, Albert Tung, Alex Bewley, Alex Herzog, Alex Irpan, Alexander Khazatsky, Anant Rai, Anchit Gupta, Andrew Wang, Andrey Kolobov, Anikait Singh, Animesh Garg, Aniruddha Kembhavi, Annie Xie, Anthony Brohan, Antonin Raffin, Archit Sharma, Arefeh Yavary, Arhan Jain, Ashwin Balakrishna, Ayzaan Wahid, Ben Burgess-Limerick, Beomjoon Kim, Bernhard Schölkopf, Blake Wulfe, Brian Ichter, Cewu Lu, Charles Xu, Charlotte Le, Chelsea Finn, Chen Wang, Chenfeng Xu, Cheng Chi, Chenguang Huang, Christine Chan, Christopher Agia, Chuer Pan, Chuyuan Fu, Coline Devin, Danfei Xu, Daniel Morton, Danny Driess, Daphne Chen, Deepak Pathak, Dhruv Shah, Dieter Büchler, Dinesh Jayaraman, Dmitry Kalashnikov, Dorsa Sadigh, Edward Johns, Ethan Foster, Fangchen Liu, Federico Ceola, Fei Xia, Feiyu Zhao, Felipe Vieira Frujeri, Freek Stulp, Gaoyue Zhou, Gaurav S. Sukhatme, Gautam Salhotra, Ge Yan, Gilbert Feng, Giulio Schiavi, Glen Berseth, Gregory Kahn, Guangwen Yang, Guanzhi Wang, Hao Su, Hao-Shu Fang, Haochen Shi, Henghui Bao, Heni Ben Amor, Henrik I Christensen, Hiroki Furuta, Homanga Bharadhwaj, Homer Walke, Hongjie Fang, Huy Ha, Igor Mordatch, Ilija Radosavovic, Isabel Leal, Jacky Liang, Jad Abou-Chakra, Jaehyung Kim, Jaimyn Drake, Jan Peters, Jan Schneider, Jasmine Hsu, Jay Vakil et al. (192 additional authors not shown)
