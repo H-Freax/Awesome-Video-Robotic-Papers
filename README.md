@@ -192,6 +192,22 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   - [Code](https://github.com/homangab/Track-2-Act/)
 
 ## Dataset
+- **The Ingredients for Robotic Diffusion Transformers**
+  - JSudeep Dasari, Oier Mees, Sebastian Zhao, Mohan Kumar Srirama, Sergey Levine
+  - [Paper](https://arxiv.org/abs/2410.10088)
+  - [Website](https://dit-policy.github.io/)
+  - [Code](https://github.com/sudeepdasari/dit-policy)
+  - ![image](https://github.com/user-attachments/assets/f906d49c-c593-49ed-ad28-7bab2c1de349)
+
+
+
+- **Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**
+  - Joshua Jones*, Oier Mees*, Carmelo Sferrazza*, Kyle Stachowicz, Pieter Abbeel, Sergey Levine
+  - [Paper](https://arxiv.org/abs/2501.04693)
+  - [Website](https://fuse-model.github.io/)
+  - [Code](https://github.com/fuse-model/FuSe)
+  - <img width="875" alt="image" src="https://github.com/user-attachments/assets/81db4f45-1e7a-4075-9678-d99aae57126d" />
+
 
 - **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset**
   - Alexander Khazatsky, Karl Pertsch, Suraj Nair, Ashwin Balakrishna, Sudeep Dasari, Siddharth Karamcheti, Soroush Nasiriany, Mohan Kumar Srirama, Lawrence Yunliang Chen, Kirsty Ellis, Peter David Fagan, Joey Hejna, Masha Itkina, Marion Lepert, Yecheng Jason Ma, Patrick Tree Miller, Jimmy Wu, Suneel Belkhale, Shivin Dass, Huy Ha, Arhan Jain, Abraham Lee, Youngwoon Lee, Marius Memmel, Sungjae Park, Ilija Radosavovic, Kaiyuan Wang, Albert Zhan, Kevin Black, Cheng Chi, Kyle Beltran Hatch, Shan Lin, Jingpei Lu, Jean Mercat, Abdul Rehman, Pannag R Sanketi, Archit Sharma, Cody Simpson, Quan Vuong, Homer Rich Walke, Blake Wulfe, Ted Xiao, Jonathan Heewon Yang, Arefeh Yavary, Tony Z. Zhao, Christopher Agia, Rohan Baijal, Mateo Guaman Castro, Daphne Chen, Qiuyu Chen, Trinity Chung, Jaimyn Drake, Ethan Paul Foster, Jensen Gao, David Antonio Herrera, Minho Heo, Kyle Hsu, Jiaheng Hu, Donovon Jackson, Charlotte Le, Yunshuang Li, Kevin Lin, Roy Lin, Zehan Ma, Abhiram Maddukuri, Suvir Mirchandani, Daniel Morton, Tony Nguyen, Abigail O'Neill, Rosario Scalise, Derick Seale, Victor Son, Stephen Tian, Emi Tran, Andrew E. Wang, Yilin Wu, Annie Xie, Jingyun Yang, Patrick Yin, Yunchu Zhang, Osbert Bastani, Glen Berseth, Jeannette Bohg, Ken Goldberg, Abhinav Gupta, Abhishek Gupta, Dinesh Jayaraman, Joseph J Lim, Jitendra Malik, Roberto Martín-Martín, Subramanian Ramamoorthy, Dorsa Sadigh, Shuran Song, Jiajun Wu, Michael C. Yip, Yuke Zhu, Thomas Kollar, Sergey Levine, Chelsea Finn
